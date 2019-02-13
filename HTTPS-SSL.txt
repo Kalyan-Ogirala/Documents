@@ -1,0 +1,20 @@
+
+SSL - Secure Socket Layer
+TLS - Transport Layer Security
+
+PKI - Public Key Infrastructure - Public Key and Private Key
+
+2 different kinds of SSL certificates - Regular (Just a lock) and Extended (Color tab)
+
+High cost for SSL, dedicated server/hosting environment
+
+
+
+
+
+
+
+
+  	
+
+ 
